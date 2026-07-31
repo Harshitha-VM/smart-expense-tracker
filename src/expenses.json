@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 2,
+        "title": "Movie Ticket",
+        "amount": 500.0,
+        "category": "Entertainment",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 3,
+        "title": "Breakfast",
+        "amount": 120.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 4,
+        "title": "Bus Pass",
+        "amount": 800.0,
+        "category": "Transport",
+        "date": "2026-07-30"
+    },
+    {
+        "id": 5,
+        "title": "Petrol",
+        "amount": 1500.0,
+        "category": "Transport",
+        "date": "2026-07-29"
+    },
+    {
+        "id": 6,
+        "title": "Groceries",
+        "amount": 2200.0,
+        "category": "Food",
+        "date": "2026-07-28"
+    },
+    {
+        "id": 7,
+        "title": "Electricity Bill",
+        "amount": 1800.0,
+        "category": "Utilities",
+        "date": "2026-07-27"
+    },
+    {
+        "id": 8,
+        "title": "Internet Bill",
+        "amount": 999.0,
+        "category": "Utilities",
+        "date": "2026-07-26"
+    },
+    {
+        "id": 9,
+        "title": "Netflix Subscription",
+        "amount": 649.0,
+        "category": "Entertainment",
+        "date": "2026-07-25"
+    },
+    {
+        "id": 10,
+        "title": "Shopping",
+        "amount": 3500.0,
+        "category": "Personal",
+        "date": "2026-07-24"
+    },
+    {
+        "id": 11,
+        "title": "Medicine",
+        "amount": 450.0,
+        "category": "Healthcare",
+        "date": "2026-07-23"
+    },
+    {
+        "id": 12,
+        "title": "Doctor Consultation",
+        "amount": 700.0,
+        "category": "Healthcare",
+        "date": "2026-07-22"
+    }
+]
